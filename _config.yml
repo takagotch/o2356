@@ -1,8 +1,10 @@
 
 
-
+name: Tkvtv
 url: http://takagotch.github.io/page55/
 baseurl: https://takagotch/github.io/page55/
+
+paginate: 10
 
 title: Takagotch Officail site
 # title_separator:
