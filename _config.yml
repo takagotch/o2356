@@ -1,0 +1,23 @@
+url: http://takagotch.github.io/page55/
+baseurl: https://takagotch/github.io/page55/
+
+title: Takagotch Officail site
+email: yoshioka.takashi@outlook.com
+description: This an awesome official page for your new site here.
+
+pepole:
+- name: Takashi Yoshioka
+  pic:
+  position:
+  socail:
+   - title: 
+     url:
+     
+     
+address:
+  - line: NankoKita wtc tower 55
+  - line: Namba, Osaka, JP
+  
+markdown: kramdown
+permalink: pretty
+
