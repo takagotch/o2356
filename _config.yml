@@ -4,7 +4,7 @@ name: Tkvtv
 url: http://takagotch.github.io/page55/
 baseurl: https://takagotch/github.io/page55/
 
-paginate: 10
+#paginate: 10
 
 title: Takagotch Officail site
 # title_separator:
@@ -14,45 +14,45 @@ title: Takagotch Officail site
 email: yoshioka.takashi@outlook.com
 description: This an awesome official page for your new site here.
 
-theme: 
-skin: 
-locale: 
-logo:
-date_format:
-read_time:
-words_per_minute:
-mathjax:
-  enable:
-  combo:
-  tags:
-google_fonts:
-  - name: 
-    weights: ""
-google_analytics:
-disqus:
-  shortname:
+#theme: 
+#skin: 
+#locale: 
+#logo:
+#date_format:
+#read_time:
+#words_per_minute:
+#mathjax:
+#  enable:
+#  combo:
+#  tags:
+#google_fonts:
+#  - name: 
+#    weights: ""
+#google_analytics:
+#disqus:
+#  shortname:
   
 
-pepole:
-- name: Takashi Yoshioka
-  pic:
-  position:
-  socail:
-   - title: 
-     url:
+#pepole:
+#- name: Takashi Yoshioka
+#  pic:
+#  position:
+#  socail:
+#   - title: 
+#     url:
      
-socail:
-  - title: facebook 
-    url:   http://facebook.com/takagotch/
-  - title: github
-    url:   http://github.com/takagotch/
+#socail:
+#  - title: facebook 
+#    url:   http://facebook.com/takagotch/
+#  - title: github
+#    url:   http://github.com/takagotch/
 
-address:
-  - line: NankoKita wtc tower 55
-  - line: Namba, Osaka, JP
+#address:
+#  - line: NankoKita wtc tower 55
+#  - line: Namba, Osaka, JP
   
-markdown: kramdown
-permalink: pretty
+#markdown: kramdown
+#permalink: pretty
 
 
 
