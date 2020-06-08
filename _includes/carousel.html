@@ -1,0 +1,26 @@
+<!-- carousel
+
+<div class="col-lg-10 col-lg-offset-1 centered">
+  <div id="carousel-expample-generic" class="carousel slide" data-ride="carousel">
+  
+  
+  </div>
+  
+  <div class="carousel-inner">
+    {% for img in page.carousel.first %}
+      <div class="item active">
+        <img src="{{ "/assets/img/project/carousel/" | preped: site.baseurl }}{{ img}}" alt="">
+      </div>
+    {% endfor %}
+    
+    {% for img in page.carousel offset:1 %}
+      <div class="item">
+        <img src="{{ "/assets/img/project/carousel/" | prepend: site.baseurl }}{{ img }}" alg="">
+      </div>
+    {% endfor %}
+  </div>
+  
+</div>
+
+-->
+
